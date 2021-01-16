@@ -1,0 +1,3 @@
+include ':GetSetSharedPreferences'
+include ':app'
+rootProject.name = "GetSetSharedPreferences"
